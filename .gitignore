@@ -1,0 +1,25 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
+
+# Django Migrations
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+db.sqlite3
+
+# Docker
+*.env
+*.pid
+/pgdata
+/postgres_data
+
+# Other
+.idea/
+.vscode/
+.DS_Store
